@@ -1,2 +1,2 @@
-# Patika_HTML_odev
+# Patika HTML ödevleri
  www.patika.dev
